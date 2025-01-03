@@ -1,0 +1,14 @@
+package in.ashokit.DTO;
+
+import lombok.Data;
+
+@Data
+public class EnquiryDTO {
+ 
+	private Integer EnquiryId;
+	private String name;
+	private Long phno;
+	private String classmode;
+	private String course;
+	private String status;
+}

@@ -1,0 +1,58 @@
+package in.ashokit.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import in.ashokit.DTO.CounsellorDTO;
+import in.ashokit.DTO.DashboardDTO;
+import in.ashokit.service.CounsellorService;
+import in.ashokit.service.EnquiryService;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpSession;
+
+@Controller
+public class CounsellorController {
+	
+	@Autowired
+	private CounsellorService counsellorService;
+	
+	@Autowired
+	private EnquiryService enquiryService;
+	
+	@GetMapping("/")
+	public String login(Model model) {
+		CounsellorDTO cdto = new CounsellorDTO();
+		model.addAttribute("counsellor",cdto);
+		return "login";
+	}
+	
+	@PostMapping("/login")
+	public String handleLogin(HttpServletRequest req,CounsellorDTO dto,Model model) {
+		
+		CounsellorDTO counsellor = counsellorService.login(dto);
+		
+		if(counsellor == null) {
+			model.addAttribute("emsg","Invalid Credentials");
+			
+			CounsellorDTO cdto = new CounsellorDTO();
+			model.addAttribute("counsellor",cdto);
+			
+			return "login";
+		}else {
+			Integer counsellorId = counsellor.getCounsellorId();
+			
+			HttpSession session = req.getSession(true);
+			session.setAttribute("counsellorId", counsellorId);
+			
+			
+			DashboardDTO dbDTO = enquiryService.getDashboardInfo(counsellorId);
+			model.addAttribute("dbDTO",dbDTO);
+			return "dashboard";
+		}
+		
+		
+	}
+}

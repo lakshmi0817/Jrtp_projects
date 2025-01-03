@@ -1,0 +1,21 @@
+package in.ashokit.service;
+
+import java.util.List;
+
+import in.ashokit.DTO.DashboardDTO;
+import in.ashokit.DTO.EnqFilterDTO;
+import in.ashokit.DTO.EnquiryDTO;
+
+public interface EnquiryService {
+
+	
+	public DashboardDTO getDashboardInfo(Integer counsellorId);
+	
+	public boolean addEnquiry(EnquiryDTO enqDTO,Integer counsellorId);
+	
+	public List<EnquiryDTO> getEnquiry(Integer counsellorID);
+	
+	public List<EnquiryDTO> getEnquiry(EnqFilterDTO filterDTO, Integer counsellerId);
+	
+	public EnquiryDTO getEnqById(Integer enqiryId);
+}

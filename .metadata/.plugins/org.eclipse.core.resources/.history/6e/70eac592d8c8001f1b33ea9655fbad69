@@ -1,0 +1,10 @@
+package in.ashokit.DTO;
+
+public class EnqFilterDTO {
+	
+	private String classmode;
+	private String course;
+	private String status;
+	
+
+}

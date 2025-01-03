@@ -1,0 +1,758 @@
+2024-12-29 12:34:52,459 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-12-29 12:37:31,595 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:01_Mini_Project:0.0.1-SNAPSHOT @ C:\jrtp-workspace\01_Mini_Project\pom.xml.
+2024-12-29 12:37:37,902 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/main/java
+2024-12-29 12:37:37,904 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2024-12-29 12:37:37,916 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2024-12-29 12:37:37,930 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/test/java
+2024-12-29 12:37:37,931 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/test/resources
+2024-12-29 12:37:48,612 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2024-12-29 12:37:48,622 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-29 12:37:50,046 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:01_Mini_Project:0.0.1-SNAPSHOT @ C:\jrtp-workspace\01_Mini_Project\pom.xml.
+2024-12-29 12:37:51,769 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/main/java
+2024-12-29 12:37:51,770 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2024-12-29 12:37:51,771 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2024-12-29 12:37:51,772 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/test/java
+2024-12-29 12:37:51,774 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/test/resources
+2024-12-29 12:37:53,630 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2024-12-29 12:37:55,730 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 12:37:55,769 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 12:37:55,777 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 12:39:50,086 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 12:39:50,095 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 12:39:50,099 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 12:40:14,790 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 12:40:14,799 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 12:40:14,807 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 12:51:01,858 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-29 12:51:43,368 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 12:51:43,416 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 12:51:43,426 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:00:10,189 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:00:10,227 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:00:10,231 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:00:44,284 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:00:44,308 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:00:44,314 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:11:56,282 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:11:56,305 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:11:56,311 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:13:24,842 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:13:24,848 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:13:24,852 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:14:43,304 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:14:43,312 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:14:43,320 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:15:55,585 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:15:55,594 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:15:55,602 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:16:34,262 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:16:34,269 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:16:34,275 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:17:24,880 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:17:24,904 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:17:24,909 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:18:55,462 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:18:55,567 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:18:55,573 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:19:09,033 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:19:09,046 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:19:09,051 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:19:28,841 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:19:28,850 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:19:28,858 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2024-12-29 13:19:43,482 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-29 13:19:43,493 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-29 13:19:43,499 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 11:42:22,256 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-02 11:42:44,307 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:42:44,355 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:42:44,363 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 11:52:28,779 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:52:28,792 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:52:28,800 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 11:56:23,053 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:56:23,064 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:56:23,072 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 12:38:02,442 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 12:38:02,464 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 12:38:02,468 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 12:39:57,672 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 12:39:57,725 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 12:39:57,731 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 12:40:01,095 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 12:40:01,126 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 12:40:01,132 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 12:40:07,449 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 12:40:07,495 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 12:40:07,499 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 12:40:11,404 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 12:40:11,413 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 12:40:11,419 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:13:49,687 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:13:49,699 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:13:49,705 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:14:07,045 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:14:07,062 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:14:07,069 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:14:33,353 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:14:33,396 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:14:33,402 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:14:53,466 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:14:53,519 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:14:53,528 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:15:01,128 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:15:01,147 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:15:01,154 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:17:31,774 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:17:31,804 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:17:31,815 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:22:01,320 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:22:01,330 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:22:01,334 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:27:51,767 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:27:51,856 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:27:51,861 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:29:09,360 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:29:09,371 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:29:09,378 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:30:13,144 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:30:13,152 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:30:13,157 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:34:21,972 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:34:21,984 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:34:21,990 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:40:41,707 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:40:41,747 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:40:41,757 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:42:41,020 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:42:41,043 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:42:41,049 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:49:54,174 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:49:54,183 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:49:54,187 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:51:06,117 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:51:06,133 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:51:06,138 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:52:44,140 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:52:44,147 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:52:44,152 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:53:46,292 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:53:46,300 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:53:46,315 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 14:58:07,019 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 14:58:07,027 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 14:58:07,031 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:00:42,052 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:00:42,063 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:00:42,068 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:06:09,180 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:06:09,187 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:06:09,191 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:06:21,953 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:06:21,960 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:06:21,965 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:12:26,592 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:12:26,611 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:12:26,615 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:20:14,770 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:20:14,776 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:20:14,780 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 15:24:50,759 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 15:24:50,781 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 15:24:50,792 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 16:42:55,902 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 16:42:55,949 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 16:42:55,955 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:35:03,648 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:35:03,657 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:35:03,662 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:38:10,481 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:38:10,490 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:38:10,495 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:40:04,890 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:40:04,897 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:40:04,902 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:40:39,678 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:40:39,689 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:40:39,694 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:43:06,914 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:43:06,922 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:43:06,926 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:48:54,624 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:48:54,634 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:48:54,637 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:52:17,611 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:52:17,619 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:52:17,624 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 17:59:30,894 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 17:59:30,904 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 17:59:30,909 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:01:30,065 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:01:30,073 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:01:30,078 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:01:58,077 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:01:58,085 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:01:58,093 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:02:07,539 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:02:07,547 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:02:07,552 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:10:15,360 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:10:15,367 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:10:15,370 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:12:46,881 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:12:46,908 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:12:46,915 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:13:05,199 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:13:05,203 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:13:05,210 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:15:28,863 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:15:28,866 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:15:28,879 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:15:48,977 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:15:48,980 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:15:48,988 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:16:08,995 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:16:08,999 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:16:09,006 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:23:12,502 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:23:12,512 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 18:23:12,521 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:23:42,937 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:23:42,948 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 18:23:42,960 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:27:29,718 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:27:29,726 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 18:27:29,734 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:54:59,143 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:54:59,148 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:54:59,155 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:55:18,672 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:55:18,675 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:55:18,685 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:56:00,112 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:56:00,118 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:56:00,124 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:56:04,029 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:56:04,031 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:56:04,036 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:56:08,030 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:56:08,032 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:56:08,041 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:56:12,446 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:56:12,449 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:56:12,461 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:56:18,905 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:56:18,915 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 18:56:18,923 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 18:58:21,331 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 18:58:21,353 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 18:58:21,362 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:00:08,796 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:00:08,808 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 19:00:08,812 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:01:08,182 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-02 19:01:16,495 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:01_Mini_Project:0.0.1-SNAPSHOT @ C:\jrtp-workspace\01_Mini_Project\pom.xml.
+2025-01-02 19:01:22,044 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/main/java
+2025-01-02 19:01:22,048 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-02 19:01:22,049 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-02 19:01:22,050 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/test/java
+2025-01-02 19:01:22,052 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/test/resources
+2025-01-02 19:01:23,419 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 13.00 sec, update config takes 1.00 sec 
+2025-01-02 19:01:24,383 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:01:24,446 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:01:24,467 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:02:39,329 [Worker-82: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:02:39,337 [Worker-82: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:02:39,351 [Worker-82: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:05:05,526 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:05:05,537 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:05:05,544 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:10:05,117 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:10:05,134 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:10:05,146 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:10:24,755 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:10:24,772 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:10:24,790 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:10:41,084 [Worker-94: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:10:41,093 [Worker-94: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:10:41,100 [Worker-94: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:18:35,882 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:18:35,899 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:18:35,916 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:18:46,963 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:18:46,980 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:18:46,991 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:18:58,308 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:18:58,321 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:18:58,329 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:27:16,997 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:27:17,012 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:27:17,020 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:27:27,335 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:27:27,363 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:27:27,373 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:27:56,399 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:27:56,408 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:27:56,415 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:28:10,250 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:28:10,263 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:28:10,270 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:39:38,911 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 19:39:38,914 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:39:38,921 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:40:40,117 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 19:40:40,119 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:40:40,126 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:44:42,560 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:44:42,568 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:44:42,582 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:45:03,862 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:45:03,871 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:45:03,875 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:45:19,391 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:45:19,397 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:45:19,404 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:50:42,873 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:50:42,885 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 19:50:42,897 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:56:23,489 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 19:56:23,493 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:56:23,502 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 19:57:35,199 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 19:57:35,204 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 19:57:35,214 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:03:35,825 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:03:35,840 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:03:35,845 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:11:02,959 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:11:03,003 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:11:03,009 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:16:04,130 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:16:04,144 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:16:04,157 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:16:40,229 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:16:40,248 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:16:40,255 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:17:46,405 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:17:46,441 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:17:46,445 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:19:37,213 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:19:37,226 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:19:37,230 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:22:20,777 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:22:20,786 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:22:20,792 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:26:56,779 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:26:56,788 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:26:56,795 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:32:24,879 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:32:24,883 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:32:24,891 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:32:35,962 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:32:35,966 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:32:35,975 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:33:38,032 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 20:33:38,037 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:33:38,048 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:39:09,402 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:39:09,412 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:39:09,420 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 20:45:26,799 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 20:45:26,811 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 20:45:26,818 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:16:42,733 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:16:42,735 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:16:42,742 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:16:47,815 [Worker-150: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:16:47,824 [Worker-150: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:16:47,834 [Worker-150: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:19:21,577 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:19:21,587 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:19:21,593 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:26:11,635 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:26:11,647 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:26:11,652 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:27:09,944 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:27:09,953 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:27:09,959 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:30:55,380 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:30:55,383 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:30:55,389 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:33:01,634 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:33:01,645 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:33:01,651 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:34:07,771 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:34:07,783 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:34:07,791 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:36:35,933 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:36:35,936 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:36:35,943 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:37:56,049 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:37:56,053 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:37:56,060 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:38:36,363 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:38:36,366 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:38:36,373 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:43:19,098 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:43:19,113 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:43:19,121 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:43:46,103 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:43:46,114 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:43:46,120 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:44:58,804 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:44:58,808 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:44:58,815 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:45:03,609 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 21:45:03,612 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:45:03,618 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 21:45:09,035 [Worker-172: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 21:45:09,081 [Worker-172: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 21:45:09,087 [Worker-172: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:07:34,675 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:07:34,677 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:07:34,684 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:09:51,663 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:09:51,666 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:09:51,675 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:11:08,587 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:11:08,590 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:11:08,595 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:11:19,374 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:11:19,377 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:11:19,384 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:13:32,759 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:13:32,763 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:13:32,773 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:16:37,887 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:16:37,892 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:16:37,900 [Worker-180: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:19:10,116 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:19:10,122 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:19:10,128 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:19:29,982 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:19:29,992 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 22:19:29,999 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:20:56,090 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:20:56,093 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:20:56,101 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:20:59,001 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:20:59,004 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:20:59,010 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:23:02,324 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:23:02,326 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:23:02,332 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:27:27,275 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:27:27,278 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:27:27,285 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:36:47,276 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:36:47,290 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 22:36:47,297 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:37:10,383 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:37:10,389 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 22:37:10,399 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:39:12,593 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:39:12,598 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:39:12,607 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:43:09,613 [Worker-179: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 22:43:09,619 [Worker-179: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:43:09,625 [Worker-179: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 22:59:58,146 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 22:59:58,177 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 22:59:58,184 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:00:11,961 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:00:11,963 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:00:11,968 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:03:42,986 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:03:42,988 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:03:42,993 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:08:34,324 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:08:34,326 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:08:34,331 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:09:23,744 [Worker-195: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:09:23,748 [Worker-195: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:09:23,754 [Worker-195: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:11:56,492 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:11:56,496 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:11:56,504 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:14:33,758 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:14:33,760 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:14:33,766 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:15:13,268 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:15:13,270 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:15:13,275 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:15:56,653 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:15:56,656 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:15:56,663 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:18:23,605 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:18:23,633 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:18:23,637 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:25:10,046 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:25:10,049 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:25:10,060 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:34:37,561 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:34:37,566 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:34:37,574 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:36:38,967 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:36:38,969 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:36:38,973 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:38:56,786 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:38:56,796 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:38:56,803 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:41:52,759 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 23:41:52,762 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:41:52,768 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:43:47,657 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:43:47,669 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:43:47,677 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:44:14,609 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:44:14,618 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:44:14,624 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:46:48,276 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:46:48,287 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:46:48,295 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:47:17,595 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:47:17,604 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:47:17,610 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:48:02,301 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:48:02,309 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:48:02,315 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:54:48,262 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:54:48,278 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:54:48,290 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:55:21,305 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:55:21,320 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:55:21,329 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-02 23:55:53,060 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 23:55:53,073 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-02 23:55:53,083 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:08:03,874 [Worker-225: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 00:08:03,880 [Worker-225: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:08:03,887 [Worker-225: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:08:21,935 [Worker-225: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:08:21,966 [Worker-225: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 00:08:21,978 [Worker-225: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:13:41,768 [Worker-228: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-03 00:13:46,639 [Worker-228: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:01_Mini_Project:0.0.1-SNAPSHOT @ C:\jrtp-workspace\01_Mini_Project\pom.xml.
+2025-01-03 00:13:54,202 [Worker-228: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/main/java
+2025-01-03 00:13:54,202 [Worker-228: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-03 00:13:54,203 [Worker-228: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-03 00:13:54,203 [Worker-228: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/test/java
+2025-01-03 00:13:54,204 [Worker-228: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/test/resources
+2025-01-03 00:13:54,926 [Worker-228: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 12.00 sec, update config takes 0.00 sec 
+2025-01-03 00:13:56,557 [Worker-226: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:13:56,597 [Worker-226: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 00:13:56,698 [Worker-226: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:14:22,567 [Worker-228: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 00:14:22,569 [Worker-228: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:14:22,580 [Worker-228: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:29:23,262 [Worker-237: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:29:23,304 [Worker-237: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 00:29:23,311 [Worker-237: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:32:57,996 [Worker-245: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 00:32:58,000 [Worker-245: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:32:58,007 [Worker-245: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 00:34:44,995 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 00:34:44,998 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 00:34:45,005 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 08:20:54,762 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-03 08:22:26,489 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 08:22:26,518 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 08:22:26,531 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 08:25:27,792 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 08:25:27,798 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 08:25:27,807 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 12:25:04,350 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 12:25:04,357 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 12:25:04,386 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 12:28:50,392 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 12:28:50,396 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 12:28:50,409 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 12:58:58,998 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 12:58:59,001 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 12:58:59,009 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:03:24,561 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 13:03:24,566 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:03:24,575 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:18:28,074 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:18:28,173 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 13:18:28,184 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:18:53,278 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 13:18:53,280 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:18:53,287 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:19:23,939 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:19:23,948 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 13:19:23,956 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:20:33,307 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:20:33,319 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 13:20:33,326 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:20:36,039 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:20:36,050 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 13:20:36,057 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:22:55,140 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 13:22:55,142 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:22:55,147 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 13:23:17,440 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 13:23:17,443 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 13:23:17,452 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:35:59,429 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 15:35:59,433 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:35:59,446 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:36:26,929 [Worker-49: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:36:26,945 [Worker-49: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 15:36:26,956 [Worker-49: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:38:19,349 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:38:19,389 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 15:38:19,401 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:39:43,492 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:39:43,502 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 15:39:43,511 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:39:51,212 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:39:51,239 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 15:39:51,249 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:45:58,508 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 15:45:58,517 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:45:58,531 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 15:54:57,688 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 15:54:57,695 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 15:54:57,703 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:04:21,118 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:04:21,122 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:04:21,132 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:05:18,989 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:05:18,996 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:05:19,003 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:05:53,899 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:05:53,902 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:05:53,912 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:11:03,349 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:11:03,400 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:11:03,408 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:27:06,527 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-03 16:27:09,920 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-01-03 16:27:16,845 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:27:16,879 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:27:16,893 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:33:49,476 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:33:49,509 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:33:49,526 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:36:41,643 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-03 16:36:43,881 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:36:43,922 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:36:44,041 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:38:42,027 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:38:42,052 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:38:42,061 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:40:53,042 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-03 16:41:10,214 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-03 16:41:14,579 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:01_Mini_Project:0.0.1-SNAPSHOT @ C:\jrtp-workspace\01_Mini_Project\pom.xml.
+2025-01-03 16:41:16,629 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/main/java
+2025-01-03 16:41:16,632 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-03 16:41:16,634 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/main/resources
+2025-01-03 16:41:16,636 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Mini_Project/src/test/java
+2025-01-03 16:41:16,638 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_Mini_Project/src/test/resources
+2025-01-03 16:41:17,983 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2025-01-03 16:41:22,338 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:41:22,388 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:41:22,491 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:52:39,966 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:52:39,980 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 16:52:39,992 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:53:53,214 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:53:53,281 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:53:53,299 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:53:55,212 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:53:55,226 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:53:55,235 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 16:59:10,129 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 16:59:10,131 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 16:59:10,139 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:00:56,724 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 17:00:56,727 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:00:56,734 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:04:32,450 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 17:04:32,452 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:04:32,459 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:05:47,560 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:05:47,569 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:05:47,578 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:06:34,025 [Worker-21: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 17:06:34,028 [Worker-21: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:06:34,036 [Worker-21: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:13:47,970 [Worker-28: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:13:47,980 [Worker-28: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:13:47,988 [Worker-28: Launching 01_Mini_Project - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:20:54,103 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:20:54,138 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:20:54,159 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:22:18,201 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:22:18,210 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:22:18,220 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:26:20,794 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:26:20,804 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:26:20,834 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:31:12,450 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 17:31:12,453 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:31:12,462 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:35:11,749 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:35:11,792 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:35:11,801 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:37:46,097 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 17:37:46,102 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:37:46,111 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 17:42:37,618 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 17:42:37,627 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 17:42:37,641 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:09:20,551 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:09:20,560 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:09:20,566 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:10:12,298 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:10:12,301 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:10:12,309 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:12:16,216 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:12:16,241 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:12:16,246 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:21:07,049 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:21:07,080 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:21:07,087 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:23:34,221 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:23:34,229 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:23:34,236 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:23:41,382 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:23:41,391 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:23:41,401 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:25:17,662 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:25:17,671 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:25:17,680 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:26:14,833 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:26:14,843 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:26:14,855 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:27:27,522 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:27:27,531 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:27:27,541 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:30:51,404 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:30:51,412 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-01-03 18:30:51,420 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:42:28,053 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:42:28,056 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:42:28,064 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:44:12,793 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:44:12,797 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:44:12,803 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:45:18,086 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:45:18,089 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:45:18,096 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:48:02,142 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:48:02,146 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:48:02,155 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:49:08,215 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:49:08,219 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:49:08,229 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:52:17,570 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:52:17,576 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:52:17,587 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:52:50,125 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:52:50,127 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:52:50,134 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources
+2025-01-03 18:56:52,787 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-03 18:56:52,791 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-03 18:56:52,801 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\jrtp-workspace\01_Mini_Project\src\test\resources

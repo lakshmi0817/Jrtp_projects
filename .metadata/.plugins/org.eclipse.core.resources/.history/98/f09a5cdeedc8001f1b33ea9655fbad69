@@ -1,0 +1,13 @@
+package in.ashokit.DTO;
+
+import lombok.Data;
+
+@Data
+public class DashboardDTO {
+	
+	private String totEnquiry;
+	private String openEnquiry;
+	private String enrolledEnquiry;
+	private String lostEnquiry;
+
+}

@@ -1,0 +1,10 @@
+package in.ashokit.DTO;
+
+public class DashboardDTO {
+	
+	private String totEnquiry;
+	private String openEnquiry;
+	private String enrolledEnquiry;
+	private String lostEnquiry;
+
+}
