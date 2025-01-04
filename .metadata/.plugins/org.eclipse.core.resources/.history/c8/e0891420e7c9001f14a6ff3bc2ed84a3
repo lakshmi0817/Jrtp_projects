@@ -56,7 +56,7 @@
 
 					<td>Course</td>
 					<td>
-						<select th:field="*{course}" class="form-control">
+						<select th:field="*{course}">
 							<option value="">--select--</option>
 							<option value="Java">Java</option>
 							<option value="Python">Python</option>
@@ -68,7 +68,7 @@
 
 					<td>Status</td>
 					<td>
-						<select th:field="*{status}" class="form-control">
+						<select th:field="*{status}">
 							<option value="">--select--</option>
 							<option value="open">open</option>
 							<option value="enrolled">enrolled</option>

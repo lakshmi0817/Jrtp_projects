@@ -98,15 +98,15 @@ public class EnquiryServiceImpl implements EnquiryService{
 	public List<EnquiryDTO> getEnquiry(EnqFilterDTO filterDTO, Integer counsellorId) {
 		Enquiry enquiry = new Enquiry();
 		
-		if(filterDTO.getClassMode()!=null && !filterDTO.getClassMode().equals("")) {
+		if(filterDTO.getClassMode()!=null && filterDTO.getClassMode().equals("")) {
 			enquiry.setClassMode(filterDTO.getClassMode());
 		}
 		
-		if(filterDTO.getCourse()!= null && !filterDTO.getCourse().equals("")) {
+		if(filterDTO.getCourse()!= null && filterDTO.getCourse().equals("")) {
 			enquiry.setCourse(filterDTO.getCourse());
 		}
 		
-		if(filterDTO.getStatus()!= null && !filterDTO.getStatus().equals("")) {
+		if(filterDTO.getStatus()!= null && filterDTO.getStatus().equals("")) {
 			enquiry.setStatus(filterDTO.getStatus());
 		}
 		

@@ -96,7 +96,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr th:each="enq:${enquiries}">
+				<tr th:each="enq:${enquiry}">
 					<td th:text="${enq.name}"></td>
 					<td th:text="${enq.phno}"></td>
 					<td th:text="${enq.classMode}"></td>

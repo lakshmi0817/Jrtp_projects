@@ -63,7 +63,7 @@ public class EnquiryController {
 		HttpSession session = req.getSession(false);
 		Integer counsellorId =(Integer)session.getAttribute("counsellorId");
 		List<EnquiryDTO> enqList = enqService.getEnquiry(counsellorId);
-		model.addAttribute("enquiries",enqList);
+		model.addAttribute("enquiry",enqList);
 		
 		EnqFilterDTO filterDTO = new EnqFilterDTO();
 		model.addAttribute("filterDTO",filterDTO);
@@ -76,8 +76,8 @@ public class EnquiryController {
 		
 		HttpSession session = req.getSession(false);
 		Integer counsellorId =(Integer)session.getAttribute("counsellorId");
-		List<EnquiryDTO> enquiry = enqService.getEnquiry(filterDTO, counsellorId);
-		model.addAttribute("enquiries",enquiry);
+		List<EnquiryDTO> enqList = enqService.getEnquiry(filterDTO, counsellorId);
+		model.addAttribute("enquiry",enqList);
 		
 		return "view-enquiry";
 	}

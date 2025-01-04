@@ -76,8 +76,8 @@ public class EnquiryController {
 		
 		HttpSession session = req.getSession(false);
 		Integer counsellorId =(Integer)session.getAttribute("counsellorId");
-		List<EnquiryDTO> enquiry = enqService.getEnquiry(filterDTO, counsellorId);
-		model.addAttribute("enquiries",enquiry);
+		List<EnquiryDTO> enqList = enqService.getEnquiry(filterDTO, counsellorId);
+		model.addAttribute("enquiries",enqList);
 		
 		return "view-enquiry";
 	}
